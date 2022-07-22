@@ -1,0 +1,32 @@
+naics_cell,naics_cell_label,naics_code,naics_label,var_code_pre2021,var_code_since2021,var_label
+00000000,Total Nonfarm,00,Total Nonfarm,PNU,KS_N,Total Nonfarm
+05000000,    Total Private,05,Total Private,PNPRVU,KS_NPRV,Total Private
+06000000,        Goods Producing,06,Goods Producing,PNGOODSU,KS_NGDS,Goods Producing
+10000000,                Mining and Logging,"1133,21",Mining and Logging,PNRESU,KS_NNAT,Mining and Logging
+20000000,                Construction,23,Construction,PNCONU,KS_NCON,Construction
+30000000,                Manufacturing,31-33,Manufacturing,PNMFGU,KS_NMFG,Manufacturing
+31000000,                    Durable Goods Mfg,"321,327,33",Durable Goods Manufacturing,PNDURU,KS_NDUR,Durable Goods Manufacturing
+31336400,                            Aerospace Product and Parts Mfg,3364,Aerospace Product and Parts Mfg.,PNAERU,KS_NAER,Aerospace Product and Parts Mfg.
+32000000,                    Nondurable Goods Mfg,"31,322-326",Nondurable Goods Manufacturing,PNNDURU,KS_NNDUR,Nondurable Goods Manufacturing
+07000000,        Service Providing,07,Service Providing,PNSERVU,KS_NSRV,Service Providing
+41000000,                Wholesale Trade,42,Wholesale Trade,PNTRDU,KS_NTRD,Trade
+42000000,                Retail Trade,44-45,Retail Trade,PNTRDU,KS_NTRD,Trade
+43000000,"                Transportation, Warehousing, and Utilities","48-49,22",Transportation and Utilities,PNTRNUTILU,KS_NTWU,Transportation and Utilities
+50000000,            Information,51,Information,PNINFOU,KS_NINF,Information
+50511200,                Software Publishers,5112,Software Publishers,PNINFOSWU,KS_NINFSW,Software Publishers
+55000000,            Financial Activities,52-53,Financial Activities,PNFINU,KS_NFIN,Financial Activities
+55520000,                Finance and Insurance,52,Finance and Insurance,PNFINFIU,KS_NFINFI,Finance and Insurance
+55530000,"                Real Estate, Rental and Leasing",53,"Real Estate, Rental and Leasing",PNFINREU,KS_NFINRE,"Real Estate, Rental and Leasing"
+60000000,            Professional and Business Services,54-56,Professional and Business Services,PNPROFBUSU,KS_NPBS,Professional and Business Services
+65000000,            Educational and Health Services,61-62,Education and Health Services,PNOSERVU,KS_NOSRV,Other Services
+70000000,            Leisure and Hospitality,71-72,Leisure and Hospitality,PNOSERVU,KS_NOSRV,Other Services
+70710000,"                Arts, Entertainment and Recreation",71,"Arts, Entertainment and Recreation",PNLHS71U,KS_NLHS71,"Arts, Entertainment and Recreation"
+70721000,                Accommodation,721,Accommodation,PNLHS72U,KS_NLHS72,"Accommodation, Food Services and Drinking Places"
+70722000,                Food Services and Drinking Places,722,Food Services and Drinking Places,PNLHS72U,KS_NLHS72,"Accommodation, Food Services and Drinking Places"
+80000000,            Other Services,81,Other Services,PNOSERVU,KS_NOSRV,Other Services
+90000000,    Government,90,Government,PNGOVU,KS_NGOV,Government
+90910000,                Federal Government,91,Federal Government,PNGOVFEDU,KS_NGOVFED,Federal Government
+90920000,                Total State Government,92,Total State Government,PNGOVSLU,KS_NGOVSL,State and Local Government
+90921611,                    State Government Educational Services,921611,State Government Educational Services,PNGOVSLUEDU,KS_NGOVSLEDU,State and Local Government Educational Services
+90930000,                Total Local Government,93,Total Local Government,PNGOVSLU,KS_NGOVSL,State and Local Government
+90931611,                    Local Government Educational Services,931611,Local Government Educational Services,PNGOVSLUEDU,KS_NGOVSLEDU,State and Local Government Educational Services
