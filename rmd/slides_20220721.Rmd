@@ -296,9 +296,7 @@ ks_qcew_naics_2_plt <-
   mutate(across(c(area_label, naics_custom, naics_custom_label), as_factor),
          area_label = fct_rev(area_label))
 
-g_psrc_facet_by_naics <- 
- 
-g_psrc_trd_and_inf <- 
+g_psrc_trd_and_inf <-
   ks_qcew_naics_2_plt %>%
   filter(data_source == "PSRC",
          area_label %in% c("Seattle MD", "Bellevue", "Seattle"),
